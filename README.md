@@ -365,7 +365,7 @@ Our platform not only helps job seekers create better resumes and prepare for in
 ## 👨‍💼 Designed and Developed By
 
 <div align="center">
-  <img src="/public/lovable-uploads/1a8652a9-7759-49ba-9f65-117e7abf91aa.png" alt="Dhadi Sai Praneeth Reddy" width="150" style="border-radius: 50%; border: 3px solid #6366f1;" />
+  <img src="public/lovable-uploads/f5d06c81-a24b-4c51-8bf0-c6fd139438e3.png" alt="Dhadi Sai Praneeth Reddy" width="150" style="border-radius: 50%; border: 3px solid #6366f1;" />
   <h3>Dhadi Sai Praneeth Reddy</h3>
   <p><strong>Founder & CTO, QwikZen Group India</strong></p>
   
