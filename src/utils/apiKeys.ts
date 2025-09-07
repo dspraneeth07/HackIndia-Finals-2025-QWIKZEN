@@ -6,7 +6,7 @@ export const apiKeys = {
   LAYOFF_TOOLKIT_API_KEY: "AIzaSyCYuRiCQipbQURINkVTZ991h5i0icWdC00",
   LINKEDIN_OPTIMIZER_API_KEY: "AIzaSyDRkjNrhuN-z_ZuttqCiJJ2OT1T86mOZG8",
   INTERVIEW_AI_API_KEY: "AIzaSyAUP3PXUbvIl-caGo0aVDgd4yf0QggRWkY",
-  QWIXAI_API_KEY: "AIzaSyDrXtRQrRJ0agFFXiM44LRWTzH-zf7_QYs"
+  QWIXAI_API_KEY: "AIzaSyDRkjNrhuN-z_ZuttqCiJJ2OT1T86mOZG8"
 };
 
 // Also export individual keys for backward compatibility

@@ -37,6 +37,11 @@ export const MindPrint = () => {
                     <TabsTrigger value="assessment">Assessment</TabsTrigger>
                     <TabsTrigger value="results">Results</TabsTrigger>
                   </TabsList>
+
+                    <TabsContent value="about"> ... </TabsContent>
+                    <TabsContent value="assessment"> ... </TabsContent>
+                    <TabsContent value="results"> ... </TabsContent>
+
                   
                   <TabsContent value="about" className="space-y-4 pt-4">
                     <div className="rounded-lg bg-muted p-6">
